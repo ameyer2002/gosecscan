@@ -1,0 +1,10 @@
+admin
+login
+images
+css
+js
+api
+docs
+test
+backup
+wp-admin 
