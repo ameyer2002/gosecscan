@@ -18,10 +18,29 @@
 - 🧪 CLI-based (easy to use)
 
 ---
+Used like 
 
-## 📦 Installation
+./gosecscan <url> <wordlist>
 
-```bash
-git clone https://github.com/yourusername/gosecscan.git
-cd gosecscan
-go build -o gosecscan
+Example Input
+
+./gosecscan https://example.com dirst.txt
+
+Example Output 
+
+🔍 Security Header & TLS Check for: https://example.com
+[+] TLS Cert Subject: example.com
+[+] TLS Cert Issuer: Let's Encrypt
+[+] TLS Cert Expiry: 2025-10-01
+[-] Missing header: X-Frame-Options
+[-] Missing header: Content-Security-Policy
+
+📁 Directory Bruteforce Results:
+[+] https://example.com/admin [200]
+[+] https://example.com/.git [403]
+
+✅ Scan Complete.
+
+
+
+
