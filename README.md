@@ -15,7 +15,7 @@
 - 🔐 Parses TLS certificate issuer, subject, and expiration date
 - 📁 Brute-forces directories using a custom or downloaded wordlist
 - ⚡ Fast scanning with Go’s built-in concurrency
-- 🧪 CLI-based and easy to use
+- 🧪 CLI-based (easy to use)
 
 ---
 
