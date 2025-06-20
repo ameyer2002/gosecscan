@@ -1,6 +1,6 @@
 # 🔐 GoSecScan
 
-**GoSecScan** is a web vulnerability scanner written in Go. It helps mainly penetration testers perform quick reconaissance  on web targets by checking for missing HTTP security headers, following redirects, examining TLS certificates, and brute-forcing common directories.
+**GoSecScan** is a web vulnerability scanner written in Go. It helps penetration testers perform quick reconaissance on web targets by checking for missing HTTP security headers, following redirects, examining TLS certificates, and brute-forcing common directories.
 
 ---
 
