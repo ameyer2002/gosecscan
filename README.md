@@ -20,7 +20,7 @@
 ---
 Used like 
 
-./gosecscan <url> <wordlist>
+./gosecscan (url) (wordlist)
 
 Example Input
 
