@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Detects missing HTTP security headers:
   - `Content-Security-Policy`
